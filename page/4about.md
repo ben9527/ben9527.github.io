@@ -12,19 +12,15 @@ type: page
 ## 关于我
 
 <iframe src="https://github.com/ben9527/" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
-
-
+hey，我是ben
 
 
 ## 联系我
 
 * GitHub：(https://github.com/)
-* email：gaohaoyang126@126.com
+* email：1048549386@qq.com
 * [Weibo](http://weibo.com/)
 * [知乎](https://www.zhihu.com/)
-* [Facebook](https://www.facebook.com/)
-* [Twitter](https://twitter.com/)
-* [豆瓣](https://www.douban.com/)
 
 
 ## 关于本站
