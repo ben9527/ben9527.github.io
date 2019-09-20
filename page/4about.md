@@ -12,7 +12,10 @@ type: page
 ## 关于我
 
 <iframe src="https://github.com/ben9527/" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
-hey，我是ben
+hey，我是小胡同学
+坐标江西，
+热爱生活，不断学习，
+在这里记录小胡同学的学习之旅。
 
 
 ## 联系我
@@ -25,13 +28,8 @@ hey，我是ben
 
 ## 关于本站
 
-**若您想使用这个 jekyll 博客主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
-
-~欢迎使用~
-
-欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 。
+**感谢大佬的主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io]
 
 
-## Comments
 
-{% include comments.html %}
+
